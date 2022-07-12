@@ -1,0 +1,73 @@
+.container {
+    font-family: sans-serif;
+    width: 800px;
+    height: 300px;
+    margin: 50px;
+    outline: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.man {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.man:hover {
+    background-color: black;
+}
+
+.man-one:hover {
+    background-color: black;
+}
+
+.man-two:hover {
+    background-color: black;
+}
+
+.man-one {
+    width: 100px;
+    height: 100px;
+    background-color: slateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.man-two {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+h1 {
+    color: black;
+    font-size: large;
+}
+
+h1:hover {
+    color: antiquewhite;
+}
+.resep {
+    width: 100;
+    height: 150px;
+    margin: 30;
+    padding: 5px;
+    outline: solid 1px black;
+
+
+
+}
+#hiding {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+}
